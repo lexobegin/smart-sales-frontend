@@ -57,8 +57,8 @@ const Login = () => {
           <Card className="shadow">
             <Card.Body className="p-5">
               <div className="text-center mb-4">
-                <h2 className="text-primary">SmartSales365</h2>
-                <p className="text-muted">Sistema de Gestión Comercial</p>
+                <h2 className="text-primary">Iniciar Sesión</h2>
+                <p className="text-muted">Smart Sales 365</p>
               </div>
 
               {error && (
