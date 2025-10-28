@@ -57,7 +57,7 @@ const Login = () => {
           <Card className="shadow">
             <Card.Body className="p-5">
               <div className="text-center mb-4">
-                <h2 className="text-primary">Iniciar Sesión</h2>
+                <h2 className="text-dark">Iniciar Sesión</h2>
                 <p className="text-muted">Smart Sales 365</p>
               </div>
 
